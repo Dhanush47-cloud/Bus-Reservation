@@ -2,7 +2,7 @@
 
 A console-based Bus Reservation System implemented in C. This program allows users to view buses, book tickets, cancel bookings, and check the status of seats. It includes a basic login system for user authentication.
 
-# Features
+#Features
 
 User login with username and password.
 
