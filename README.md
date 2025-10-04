@@ -1,8 +1,8 @@
-## Bus Reservation System in C
+# Bus Reservation System in C
 
 A console-based Bus Reservation System implemented in C. This program allows users to view buses, book tickets, cancel bookings, and check the status of seats. It includes a basic login system for user authentication.
 
-#Features
+## Features
 
 User login with username and password.
 
@@ -30,7 +30,7 @@ Newport Express
 
 VRL Express
 
-How to Run
+## How to Run
 
 Clone the repository
 
@@ -49,15 +49,13 @@ Run the program
 ./bus_reservation
 
 
-Note: The program uses text files (tr1.txt, tr2.txt, etc.) to store seat availability and bookings. Make sure these files exist in the same directory as the executable or they will be created automatically.
-
 Login Credentials
 
 Username: user
 
 Password: pass
 
-How to Use
+## How to Use
 
 Start the program and log in with the credentials above.
 
@@ -75,7 +73,7 @@ Exit
 
 Follow on-screen prompts to enter seat numbers and passenger names during booking.
 
-Dependencies
+## Dependencies
 
 C compiler (GCC recommended)
 
